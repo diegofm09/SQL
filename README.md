@@ -11,7 +11,7 @@ Hi! As part of my **Computer Science** roadmap, I created this repository to lea
 
 ## 📈 My Progress
 
-* **Current Focus:** Pure SQL (DDL, DML, Queries, Joins)
+* **Current Focus:** Pure SQL 
 * **Next Step:** Integrating SQL with Python (`sqlite3`, PostgreSQL, ORMs)
 * **Status:** Learning and improving every day
 
