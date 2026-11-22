@@ -1,0 +1,17 @@
+
+*.db
+*.sqlite
+*.sqlite3
+*.sql.bak
+
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+*.log
+*.tmp
+.DS_Store
